@@ -3,7 +3,7 @@
 
     <div class="sidebar-brand">
 
-        <a href="{{ url('/') }}"
+        <a href="{{ route('dashboard') }}"
            class="brand-link">
 
             <span class="brand-text fw-light">
